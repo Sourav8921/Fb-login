@@ -1,0 +1,172 @@
+body{
+    margin: 0px;
+    font-family: Helvetica Neue, Helvetica, Arial, sans-serif;
+
+}
+.header{
+    background: #3b5998;
+    width: 100%;
+    height: 107px;
+}
+.left-header{
+    width: 30%;
+    float: left;
+    padding-top: 36px;
+    
+}
+.right-header{
+    width: 50%;
+    float: left;
+    
+    
+}
+.logo-text{
+    color: white;
+    font-size: 47px;
+    font-weight: bold;
+    text-decoration: none;
+    font-family: Helvetica Neue, Helvetica, Arial, sans-serif;
+    margin-left: 179px;
+}
+.login{
+    margin-left: 451px;
+    margin-top: 21px;
+}
+.login-label{
+    color: white;
+}
+.login-btn{
+    background: #4267b2;
+    color: white;
+    height: 25px;
+    cursor: pointer;
+
+}
+.forgotten{
+    color: #9fa1e1;
+    font-size: 14px;
+    text-decoration: none;
+}
+.login-btn:hover{
+    background: #3b5998;
+}
+
+.left-side{
+    width: 50%;
+    float: left;
+}
+
+.right-side{
+    width: 50%;
+    float: left;
+}
+.main-body{
+    background: linear-gradient(white,#D3D8E8);
+    width: 100%;
+    height: 650px;
+}
+.para{
+    font-size: 24px;
+    margin-left: 171px;
+    margin-top: 46px;
+}
+.image{
+    margin-left: 194px;
+}
+.create{
+    margin-left: 140px;
+    font-size: 42px;
+}
+.para-style{
+    font-size: 21px;
+    margin-left: 139px;
+    margin-top: -13px;
+}
+.form-style{
+    height: 14px;
+    width: 188px;
+    border-radius: 4px;
+    font-size: 21px;
+    padding: 14px 16px;
+    border: 1px solid #dddfe2;
+    margin-left: 138px
+}
+.surname-style{
+    height: 14px;
+    width: 188px;
+    border-radius: 4px;
+    font-size: 21px;
+    padding: 14px 16px;
+    border: 1px solid #dddfe2;
+    margin-left: 9px;
+}
+.email-style{
+    height: 14px;
+    width: 424px;
+    border-radius: 4px;
+    font-size: 21px;
+    padding: 14px 16px;
+    border: 1px solid #dddfe2;
+    margin-left: 138px;
+    margin-top: 10px;
+}
+.birthday-style{
+    color:#abadb1;
+    font-weight: bold;
+    font-size: 20px;
+    margin-left: 139px;
+}
+.date-style{
+    margin-left: 138px;
+    height: 32px;
+    width: 70px;
+    margin-top: -35px;
+    border-color: #b7b9bd;
+    font-size: 18px;
+}
+.month-style{
+    height: 32px;
+    width: 85px;
+    margin-top: -35px;
+    border-color: #b7b9bd;
+    font-size: 18px;
+}
+.year-style{
+    height: 32px;
+    width: 85px;
+    margin-top: -35px;
+    border-color: #b7b9bd;
+    font-size: 18px;
+}
+.fa{
+    
+    font-size: 24px;
+    margin-left: 10px;
+    color: gray;
+    border: none;
+    background: gainsboro;
+}
+.checkbox-style{
+    margin-left: 138px
+}
+.checkbox-text{
+    font-size: 20px;
+}
+.terms-style{
+    font-size: 13px;
+    color: gray;
+    margin-left: 138px;
+}
+.signup-style{
+    width: 168px;
+    height: 40px;
+    margin-left: 138px;
+    border-radius: 6px;
+    color: white;
+    font-weight: bold;
+    font-size: 20px;
+    background-color: #2ab312;
+}
+.signup-style:hover{
+    background-color: #268a14;
+}
